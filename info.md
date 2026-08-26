@@ -1,6 +1,6 @@
-# Project Documentation: Premium AI-Integrated Portfolio Website
+# Project Documentation: Software Developer Portfolio
 
-**Developer:** Hardik Parmar  
+**Developer:** Naveen Yadav
 **Type:** Single Page Application (SPA)  
 **Primary Technologies:** React.js 19, Vite 8, Tailwind CSS v4, Framer Motion, Google Gemini API
 
@@ -38,7 +38,8 @@ src/
 │   │   ├── Experience.jsx     # Timeline with education, certifications, milestones
 │   │   ├── Projects.jsx       # Project cards with filter, detail modal trigger
 │   │   ├── AiChatbot.jsx      # Google Gemini AI chatbot with voice I/O
-│   │   └── Contact.jsx        # Contact form with EmailJS integration
+│   │   ├── Contact.jsx        # Contact form with EmailJS integration
+|   |   └── DSA.jsx            # DSA skills
 │   ├── modals/
 │   │   ├── ResumeModal.jsx    # Interactive resume/CV modal (Ctrl+K to close/open via state)
 │   │   └── ProjectDetailModal.jsx  # Detailed project view modal
