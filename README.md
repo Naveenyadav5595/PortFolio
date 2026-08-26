@@ -1,12 +1,12 @@
-# 🚀 AI Powered Portfolio Website
+# 🚀 Software Developer Portfolio
 
-> A modern, fully responsive, and AI-powered developer portfolio built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **EmailJS** to showcase my skills, projects, education, certifications, and experience with an integrated AI assistant.
+> A modern, fully responsive developer portfolio built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **EmailJS** to showcase my skills, projects, education, certifications, achievements, and experience in **Software Development, DSA, and Full-Stack Development**.
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 **Portfolio:** https://hardikparmar.vercel.app
+🔗 **Portfolio:** https://naveenkumaryadav55.vercel.app/
 
 ---
 
@@ -99,7 +99,7 @@
 Clone the repository
 
 ```bash
-git clone https://github.com/Hardiikk1501/Portfolio.git
+git clone https://github.com/Naveenyadav5595/PortFolio.git
 ```
 
 Install dependencies
@@ -169,13 +169,13 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 
 # 📬 Contact
 
-**Hardik Parmar**
+**Naveen Yadav**
 
-📧 Email: hp15012006@gmail.com
+📧 Email: pkyy8215@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/hardik1501
+💼 LinkedIn: https://www.linkedin.com/in/naveenkumar5595
 
-🐙 GitHub: https://github.com/Hardiikk1501
+🐙 GitHub: https://github.com/Naveenyadav5595
 
 ---
 
@@ -197,9 +197,9 @@ It helps support my work and motivates me to build more awesome projects.
 
 ## 👨‍💻 About Me
 
-I'm **Hardik Parmar**, an aspiring **Full Stack & AI Developer** passionate about building intelligent, scalable, and user-centric web applications using modern technologies.
+I'm **Naveen yadav**, an aspiring **Software developer** passionate about building intelligent, scalable, and user-centric web applications using modern technologies.
 
-I enjoy creating AI-powered solutions, responsive user interfaces, and robust backend systems while continuously learning new technologies in Software Engineering and Artificial Intelligence.
+My current focus is on DSA, MERN Stack Development, Full-Stack Development, and Software Engineering, while continuously improving my problem-solving skills and learning modern development practices.
 
 ---
 
